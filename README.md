@@ -15,7 +15,9 @@
 SoftSkills😎
 
 <strong>Comunicativo<strong>
+
 <strong>Trabalho bem em Equipe<strong>
+
 <strong>Aprendizado Rápido<strong>
 
 ### Onde me encontrar🔻
