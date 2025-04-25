@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Hillian Gabriel🤙
 
-<strong>Sou apaixonado por Tecnologia desde meus 8 anos, com um destaque para a linguagem C++.</strong>
+<strong>Sou apaixonado por Tecnologia desde meus 8 anos, com um destaque para a linguagem Lua.</strong>
 <strong>Atualmente, estou estudando desenvolvimento Back-End. Em meu tempo livre, costumo assistir alguns vídeos relacionados à tecnologia e derivados, e algumas séries - até porquê ninguém é de ferro😅<strong>
 
 🎓 Estudando Engenharia de Software na Unicesumar.
