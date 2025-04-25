@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
+##SoftSkills😎
+<strong>Comunicativo<strong>
+<strong>Trabalho bem em Equipe<strong>
+<strong>Aprendizado Rápido<strong>
 
 ### Onde me encontrar🔻
 <a href="https://wa.me/+5544988605608"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="mailto:hillian.gabriel.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
