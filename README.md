@@ -7,7 +7,7 @@
 
 🌱 Aprendendo mais sobre Flutter.
 
-💻 Atualmente trabalhando em um projeto em equipe sobre desenvolvimento de um jogo com outros programadores.
+💻 Atualmente, estou trabalhando em um projeto em equipe para o desenvolvimento de um jogo com outros programadores.
 ##
 
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
