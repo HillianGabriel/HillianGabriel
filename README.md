@@ -14,7 +14,7 @@
 <a href="https://osprogramadores.com/blog/2024/08/24/introducao_a_linguagem_de_programacao_cpp/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <a href="https://embarcados.com.br/linguagem-c-guia-completo/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <a href="https://www.alura.com.br/artigos/o-que-e-git-github?srsltid=AfmBOorIHvzAVDu-Kg9Pj9LYd33I7ZfjfNwrR2k8z3LTimpqVFs0_nrU"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<a href="https://www.alura.com.br/artigos/o-que-e-git-github?srsltid=AfmBOorIHvzAVDu-Kg9Pj9LYd33I7ZfjfNwrR2k8z3LTimpqVFs0_nrU"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<a href="https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <a href="https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <a href="https://aws.amazon.com/pt/what-is/flutter/#:~:text=interface%20do%20usuário.-,Qual%20linguagem%20de%20programação%20o%20Flutter%20usa%3F,dela%20são%20usados%20no%20Flutter."><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
