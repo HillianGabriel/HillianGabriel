@@ -2,6 +2,8 @@
 
 <strong>Sou apaixonado por Tecnologia desde meus 8 anos, com um destaque para a linguagem C++.</strong>
 <strong>Atualmente, estou estudando desenvolvimento Back-End. Em meu tempo livre, costumo assistir alguns vídeos relacionados à tecnologia e derivados, e algumas séries - até porquê ninguém é de ferro😅<strong>
+🎓 Estudando Engenharia de Software na Unicesumar.
+🌱 Aprendendo mais sobre Flutter.
 ##
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -19,6 +21,8 @@ SoftSkills😎
 <strong>Trabalho bem em Equipe<strong>
 
 <strong>Aprendizado Rápido<strong>
+##
+
 
 ### Onde me encontrar🔻
 <a href="https://wa.me/+5544988605608"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="mailto:hillian.gabriel.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
